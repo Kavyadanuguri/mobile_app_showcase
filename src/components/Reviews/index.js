@@ -150,9 +150,7 @@ const Reviews = () => {
       </div>
       <div className="r-bg-container6">
         <p className="r-p51">Copyright © 2022 Educator. All rights reserved.</p>
-        <p className="about-p51">
-          PRIVACY POLICY | SUPPORT | TERMS & CONDITION
-        </p>
+        <p className="r-p51">PRIVACY POLICY | SUPPORT | TERMS & CONDITION</p>
       </div>
     </>
   );
