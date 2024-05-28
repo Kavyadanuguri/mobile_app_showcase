@@ -1,0 +1,16 @@
+.Header-container {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 0px;
+  padding-right: 140px;
+}
+.header-p1 {
+  font-weight: bold;
+  font-size: 25px;
+  margin-left: 0px;
+  margin-right: 35px;
+  color: #000000;
+}
+.text-decoration {
+  text-decoration: none;
+}

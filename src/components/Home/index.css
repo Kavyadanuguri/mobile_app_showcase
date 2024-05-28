@@ -1,0 +1,125 @@
+.home-bg-container {
+  background-image: url("https://res.cloudinary.com/djysychfq/image/upload/v1716796898/q02syhl5qed1wvd7aivl.png");
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.home-container1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.home-h1 {
+  color: #000000;
+  font-family: "roboto";
+  font-size: 55px;
+  font-weight: 600;
+  text-align: left;
+  margin-top: 270px;
+}
+.home-p1 {
+  font-size: 20px;
+  width: 50%;
+}
+.home-btn1 {
+  background-color: #000000;
+  border-radius: 20px;
+  width: 150px;
+  height: 40px;
+  color: #ffffff;
+  border-width: 0px;
+}
+.home-img1 {
+  margin-top: 50px;
+  margin-right: 20px;
+}
+.home-bg-container2 {
+  background-color: #ffffff;
+  background-size: cover;
+  min-height: 100vh;
+  margin-top: 100px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.home-container21 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin-right: 100px;
+}
+.home-h2 {
+  color: #000000;
+  font-family: "roboto";
+
+  text-align: center;
+}
+.home-p2 {
+  font-size: 20px;
+  width: 650px;
+  text-align: center;
+}
+.home-p3 {
+  font-size: 20px;
+  width: 650px;
+  text-align: start;
+  margin-bottom: 50px;
+  margin-top: 30px;
+}
+
+.home-center {
+  text-align: center;
+}
+.home-girl {
+  margin-left: 150px;
+  margin-top: -80px;
+}
+.home-container22 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 50px;
+  margin-bottom: 60px;
+}
+.home-container23 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 100px;
+}
+.home-container231 {
+  display: flex;
+  flex-direction: column;
+}
+.home-card1 {
+  margin-left: 0px;
+  margin-bottom: 0px;
+}
+.home-back-h2 {
+  background-color: #b2edd1;
+  height: 50px;
+  border-radius: 10px;
+  padding-left: 20px;
+  padding-top: 10px;
+  margin-bottom: 0px;
+}
+.home-bg-container3 {
+  background-color: #b2edd1;
+  background-size: cover;
+  height: 100vh;
+  padding-top: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-top: 130px;
+}
+.home-p22 {
+  font-size: 20px;
+  text-align: center;
+}
+.home-container31 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
